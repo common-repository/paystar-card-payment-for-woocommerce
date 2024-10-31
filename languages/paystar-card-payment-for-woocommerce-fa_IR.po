@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CardPayStar Payment Gateway for WooCommerce\n"
+"POT-Creation-Date: 2021-12-08 21:48+0330\n"
+"PO-Revision-Date: 2022-04-15 20:34+0430\n"
+"Last-Translator: Seyed Hamzeh Fazeli <seyed.hamzeh.fazeli@gmail.com>\n"
+"Language-Team: ModuleBank <support@modulebank.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: paystar_card.php:21
+msgid "paystar-card-payment-for-woocommerce"
+msgstr "درگاه کارت به کارت پی استار برای افزونه ووکامرس وردپرس"
+
+#: paystar_card.php:22 paystar_card.php:49 paystar_card.php:67
+msgid "PayStar Card Payment Gateway"
+msgstr "درگاه کارت به کارت پی استار"
+
+#: paystar_card.php:40
+msgid "Enable / Disable"
+msgstr "فعال سازی/غیر فعال سازی"
+
+#: paystar_card.php:42
+msgid "Enable or Disable This Payment Mehod"
+msgstr "فعال سازی درگاه پرداخت پی استار"
+
+#: paystar_card.php:46 paystar_card.php:48
+msgid "Display Title"
+msgstr "عنوان قابل نمایش به کاربر"
+
+#: paystar_card.php:52 paystar_card.php:54
+msgid "Payment Instruction"
+msgstr "توضیحات و راهنمای پرداخت"
+
+#: paystar_card.php:55
+msgid "Pay by PayStar Card Payment Gateway"
+msgstr "پرداخت از طریق درگاه کارت به کارت پی استار"
+
+#: paystar_card.php:58
+msgid "PayStar Card Terminal"
+msgstr "شناسه درگاه"
+
+#: paystar_card.php:60
+msgid "Enter PayStar Card Terminal"
+msgstr "شناسه درگاه خود را وارد کنید"
+
+#: paystar_card.php:82
+msgid ""
+"thank you for your order. you are redirecting to paystar gateway. please wait"
+msgstr ""
+"با تشکر از سفارش شما. شما در حال هدایت به درگاه پی استار می باشید ، لطفا "
+"منتظر بمانید"
+
+#: paystar_card.php:120
+#, php-format
+msgid "Paymenter Card Number : %s"
+msgstr "شماره کارت پرداخت کننده : %s"
+
+#: paystar_card.php:122
+#, php-format
+msgid "Payment Completed. OrderID : %s . PaymentRefrenceID : %s"
+msgstr "پرداخت با موفقیت انجام شد. شماره سفارش : %s . شماره پیگیری : %s"
+
+#: paystar_card.php:138
+msgid "Error : Order Not Exists OR Already Paid!"
+msgstr "خطا : سفارشی با اطلاعات دریافتی موجود نیست یا قبلا پرداخت شده!"
+
+#: paystar_card.php:143
+msgid "System (Permission) Error."
+msgstr "خطای سیستمی. دسترسی غیر مجاز."
+
+#: paystar_card.php:170
+msgid "Pay"
+msgstr "پرداخت"
+
+#: paystar_card.php:175
+msgid "Erorr"
+msgstr "خطا"
+
+#: paystar_card.php:183
+msgid "Settings"
+msgstr "تنظیمات"
